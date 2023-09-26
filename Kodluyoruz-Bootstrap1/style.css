@@ -1,0 +1,25 @@
+.group {
+    list-style-position: inside
+}
+
+.h1-about-us {
+    color: rgba(125, 7, 136, 0.76);
+}
+
+.h3-about-us {
+    color: peru;
+}
+
+.background {
+    background-color: #E9ECEF;
+}
+
+.products-price-background {
+    background-color: grey;
+    height: fit-content;
+    width: fit-content;
+}
+
+.products-margin {
+    margin-top: 25px;
+}
